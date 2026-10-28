@@ -1,6 +1,6 @@
 # Hi there, I'm Mohith GR 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-gr-b25a6a34b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gr-0x076)
 [![Email](https://img.shields.io/badge/Email-grmohith06%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:grmohith06@gmail.com)
 
