@@ -2,42 +2,44 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-gr-b25a6a34b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gr-0x076)
+[![Work Journal](https://img.shields.io/badge/Work%20Journal-gray?style=flat&logo=github)](https://github.com/gr-0x076/work-journal)
 [![Email](https://img.shields.io/badge/Email-grmohith06%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:grmohith06@gmail.com)
 
 **Undergraduate in CS @ Scaler School of Technology & BS in Data Science @ IIT Madras**  
-*Full-Stack Engineer • Applied AI/ML Systems • Open Source Contributor*
+*Systems & AI/ML Engineer • Open Source Contributor • Builder*
+
+I build high-performance distributed systems, AI agent architectures, and contribute to upstream scientific Python libraries.
 
 ---
 
-### 🌟 Highlights & Open Source
-- 🔬 **[SciPy](https://github.com/scipy/scipy)** Contributor: Merged PR [**#26540**](https://github.com/scipy/scipy/pull/26540) resolving shape validation and memory safety in `spatial.distance` Mahalanobis distance routines.
-- ⚡ Focused on building high-performance, real-time distributed web systems and production-grade ML pipelines.
-- 🏆 Passionate hackathon builder with rapid end-to-end prototyping skills across MERN, WebSockets, and PyTorch.
+### 🔬 Open-Source Contributions
+
+Detailed technical post-mortems and notes maintained in my [**Work Journal**](https://github.com/gr-0x076/work-journal).
+
+- **[SciPy](https://github.com/scipy/scipy)**: Merged [**PR #26540**](https://github.com/scipy/scipy/pull/26540) (Milestone: SciPy 2.0.0). Fixed buffer over-reads (segmentation faults) and silent arithmetic corruption in compiled C distance kernels by adding strict shape validation in `scipy.spatial.distance`.
+- **[statsmodels](https://github.com/statsmodels/statsmodels)**: [**PR #10704**](https://github.com/statsmodels/statsmodels/pull/10704) (In Review). Fixed numerical instability and `NaN` statistics in `powerdiscrepancy` for $G$-tests with zero observed counts using `scipy.special.xlogy`.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Engineering Projects
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[Pulse Incident Engine](https://github.com/gr-0x076/pulse-incident-engine)** | MERN, Socket.io, TanStack Query, FSM, MongoDB | Real-time automated incident triage platform with finite state machine guards, SLA Sentinel ticker, SHA-256 deduplication, and aggregation pipelines. |
-| **[Intent-Based Recommendation System](https://github.com/gr-0x076/Intent-Based-Recommendation-System)** | PyTorch, FAISS, FastAPI, Scikit-learn, Pandas | Session-based e-commerce recsys on 36M+ events (Coveo SIGIR) implementing ItemCF, GRU4Rec sequential modeling, and dense retrieval. |
-| **[ContextMesh — Multimodal RAG](https://github.com/gr-0x076/multimodal_rag)** | Python, ChromaDB, Groq LLM, Streamlit, Whisper | Multimodal RAG ingesting video, audio, PDFs, and images into a unified evidence graph with timestamped grounding and cross-modal search. |
-| **[Tenant War Room](https://github.com/gr-0x076/Tenant-Landlord-conflict-resolution)** | React, Firebase, Tailwind CSS | Real-time collaborative conflict & repair tracking portal between tenants and property managers. |
+| **[ProofGraph](https://github.com/gr-0x076/proofgraph)** | Python, NetworkX, LLMs, Graph RAG | Autonomous AI evidence intelligence & claim verification engine that decomposes complex assertions into verifiable DAGs with source grounding. |
+| **[IncidentLens](https://github.com/gr-0x076/incidentlens)** | Python, Groq, Hindsight, FastAPI | Memory-powered SRE triage copilot built on persistent agent memory and high-throughput inference to diagnose production incidents. |
+| **[Pulse Incident Engine](https://github.com/gr-0x076/pulse-incident-engine)** | React, Node.js, Socket.io, TanStack Query, MongoDB | Real-time incident triage and response engine featuring strict finite-state machine transitions, SHA-256 deduplication, and live WebSocket broadcasts. |
+| **[ContextMesh](https://github.com/gr-0x076/multimodal_rag)** | Python, ChromaDB, Groq, Whisper | Multimodal RAG system ingesting video, audio, PDFs, and images into a unified evidence graph with timestamp-accurate grounding. |
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Systems
 
-- **Languages:** Python, JavaScript (ES6+), Java, SQL, C++
-- **Frontend:** React.js, Tailwind CSS, Vite, HTML5, CSS3, TanStack Query
-- **Backend & APIs:** Node.js, Express.js, FastAPI, REST APIs, WebSockets (Socket.io), JWT Auth, RBAC
-- **AI / ML & Data:** PyTorch, Scikit-learn, FAISS, ChromaDB, LangChain, Pandas, NumPy, Deep Learning, RAG
-- **Databases & Tools:** MongoDB, PostgreSQL, Firebase, Git, Linux, Postman
+- **Languages:** Python, C++, Java, JavaScript (ES6+), SQL
+- **AI / ML & Systems:** PyTorch, SciPy, Scikit-learn, ChromaDB, FAISS, Graph RAG, Agent Frameworks
+- **Backend & Distributed:** FastAPI, Node.js, Express, WebSockets, REST APIs, Redis, FSM Architecture
+- **Databases & Tools:** PostgreSQL, MongoDB, Git, Linux, Docker, Postman
 
 ---
-
-### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gr-0x076&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohith's GitHub Stats" />
