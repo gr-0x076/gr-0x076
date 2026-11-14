@@ -17,6 +17,9 @@ I learn by building projects, investigating real-world bugs, contributing to exi
 
 I document the problem, investigation, implementation, and lessons learned from each contribution in my [**Work Journal**](https://github.com/gr-0x076/work-journal).
 
+- **[SciPy](https://github.com/scipy/scipy)** · [PR #26674](https://github.com/scipy/scipy/pull/26674) · **Merged**  
+  Fixed an out-of-bounds filter offset in `scipy.ndimage`'s compiled C coordinate iterator macro (`NI_FILTER_GOTO`) when filtering with footprints larger than the input array along an axis, preventing memory over-reads and segmentation faults in morphological operations.
+
 - **[SciPy](https://github.com/scipy/scipy)** · [PR #26540](https://github.com/scipy/scipy/pull/26540) · **Merged**  
   Added shape validation for the inverse covariance matrix `VI` in `scipy.spatial.distance.pdist` and `cdist` when using the Mahalanobis metric. The validation prevents incompatible matrix shapes from reaching the lower-level distance kernel, where they could cause buffer over-reads or silent arithmetic errors. Added regression tests for both functions.
 
