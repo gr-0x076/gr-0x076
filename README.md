@@ -1,6 +1,6 @@
 # Mohith GR
 
-[Work Journal](https://github.com/gr-0x076/work-journal) · [LinkedIn](https://www.linkedin.com/in/mohith-gr-b25a6a34b/) · [Email](mailto:grmohith06@gmail.com)
+[![Work Journal](https://img.shields.io/badge/Work_Journal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gr-0x076/work-journal)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-gr-b25a6a34b/)&nbsp;&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grmohith06@gmail.com)
 
 Computer Science undergraduate at Scaler School of Technology and BS in Data Science & Applications student at IIT Madras. Focused on systems programming, scientific Python, and production AI engineering.
 
