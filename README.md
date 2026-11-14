@@ -28,12 +28,4 @@ I document the root causes, implementations, and review lessons for my upstream 
 | **[ProofGraph](https://github.com/gr-0x076/proofgraph)** | Python, Playwright, NetworkX | Citation auditor that validates LLM web citations via browser-rendered extraction, entity ambiguity detection, and discrete evidence tiers. |
 | **[IncidentLens](https://github.com/gr-0x076/incidentlens)** | Python, FastAPI, Hindsight, Groq | SRE copilot using persistent agent memory to retrieve historical incident patterns and suggest mitigation steps for active outages. |
 | **[Pulse Incident Engine](https://github.com/gr-0x076/pulse-incident-engine)** | Node.js, Express, React, MongoDB, Socket.IO | Real-time incident command center with deterministic state machine lifecycle transitions and SHA-256 alert deduplication. |
-| **[ContextMesh](https://github.com/gr-0x076/multimodal_rag)** | Python, ChromaDB, Groq | Multimodal RAG system ingesting video, audio, PDFs, and images into a cross-modal evidence graph. |
-
----
-
-### Engineering Focus
-
-- **Languages & Systems:** Python, C, Java, JavaScript, Linux, Git
-- **Data & Scientific Computing:** NumPy, SciPy, pandas, statsmodels, scikit-learn
-- **Backend & AI Systems:** FastAPI, Node.js/Express, MongoDB, PostgreSQL, WebSockets, ChromaDB
+| **[ContextMesh](https://github.com/gr-0x076/multimodal_rag)** | Python, ChromaDB, Groq | Multimodal RAG pipeline linking video, audio, PDFs, and images into an in-memory evidence graph with ChromaDB retrieval and Groq generation. |
